@@ -1,4 +1,4 @@
-# What I've learnt so far
+ What I've learnt so far
 
 * Commandline
 * Intro to Git & Github
