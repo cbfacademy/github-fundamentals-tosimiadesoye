@@ -12,7 +12,7 @@ I like the method of teaching and how helpful the instructors are.
 
 ## Some of the commandline command that has been covered include:
 *  `Cd`
-* `*mkdir` 
+* `mkdir` 
 * `mv` 
 * `ls` 
 
